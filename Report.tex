@@ -31,12 +31,12 @@
 
 %===============================%
 % 文章信息
-% 作者：-author-cn-
-% Author: -author-en-
-% 日期: -year-.-month-
-% 实验编号: -lab-
-% 文章标题：实验 -lab-：-title-cn-
-% Title: Lab -lab-: -title-en-
+% 作者：李华
+% Author: Hua Li
+% 日期: 2024.9
+% 实验编号: 1
+% 文章标题：实验 1：数据分析实践
+% Title: Lab 1: Practicing Data Analysis
 % 使用说明： 
 % 1. 请直接使用字符逐次全部替换上方的占位符（-xxx-）即可
 % 2. 请注意 section 和 subsection 的用法，需要整个块复制使用
@@ -53,14 +53,14 @@
     \hspace {40mm}
     \mbox{
       \begin{CJK*}{UTF8}{song}
-        -year- 年
+        2024 年
       \end{CJK*}
     }
   }
 }
 \headoddname{
   \begin{CJK*}{UTF8}{song}
-    -lab- 期 \hfill -author-cn-：-title-cn-
+    1 期 \hfill 李华：数据分析实践
   \end{CJK*}
 }
 
@@ -105,18 +105,18 @@
 \vspace {-13mm}
 \begin{tabular}{p{168mm}}
   \begin{CJK*}{UTF8}{song}\zihao{5-}
-    第01卷\quad 第-lab-期
+    第01卷\quad 第1期
     \hfill
     人\quad 工\quad 智\quad 能\quad 导\quad 论\quad 实\quad 验\quad 报\quad 告
     \hfill
-    Vol. 01  No. -lab-
+    Vol. 01  No. 1
   \end{CJK*}\\
   \begin{CJK*}{UTF8}{song}\zihao{5-}
-    -year-年-month-月
+    2024年9月
     \hfill
     Lab Report of Introduction to Artificial Intelligence
     \hfill
-    -month-. -year-
+    9. 2024
   \end{CJK*}\\
 \hline\\[-4.5mm]\hline
 \end{tabular}
@@ -125,13 +125,13 @@
 \centering
 \vspace {11mm}
 \begin{CJK}{UTF8}{hei}\zihao{2}
-  实验 -lab-：-title-cn-
+  实验 1：数据分析实践
 \end{CJK}
 \vskip 5mm
 
 % 论文作者
 \begin{CJK*}{UTF8}{fs}\zihao{3}
-  -author-cn-$^{1)}$
+  李华$^{1)}$
 \end{CJK*}
 
 % 作者单位
@@ -185,11 +185,11 @@
 \vskip 7mm
 \begin{center}
   \begin{CJK*}{UTF8}{hei}\zihao{3}
-    Lab -lab-: -title-en-
+    Lab 1: Practicing Data Analysis
   \end{CJK*}\\
   \vspace {5mm}
   \begin{CJK*}{UTF8}{hei}\zihao{5}
-    -author-en-$^{1)}$
+    Hua Li$^{1)}$
   \end{CJK*}\\
   \vspace {2mm}
   \begin{CJK*}{UTF8}{hei}\zihao{6}
@@ -236,59 +236,36 @@
 \linespread{1.15}
 
 % 正文部分
-\begin{CJK*}{UTF8}{song}\zihao{5}
 
 {
   \begin{CJK*}{UTF8}{hei}\zihao{5}
     \vskip 1mm
-    \section{一级标题}
+    \section{Byml's CjC template}
   \end{CJK*} 
 }
+本项目旨在通过调整 [《中国计算机学报》](http://cjc.ict.ac.cn/index.htm)的投稿 LaTeX 模板，使其更加能够更加方便地应用于《智能科学导论》实验课的实验报告撰写。
 
 {
   \begin{CJK*}{UTF8}{hei}
-    \subsection{二级标题}
+    \subsection{项目特点}
   \end{CJK*}  
 }
+1. 对 LaTeX 模板手动格式化，使其具有更好的可读性
+2. 修改编码为 UTF-8，使其具有更好的适用性
+3. 添加格式填充内容，使基本信息填写更加方便快捷
+4. 改用 BibLaTeX 管理参考文献，使参考文献的管理更加方便
 
-\subsubsection{三级标题}
-
-正文部分
-
-\begin{figure}[htbp]
-  \centerline{
-    \includegraphics[width=3.15in,height=1.98in]{CJC1.pdf}
-  }
-  \caption{图片说明}
-  \label{fig1}
-\end{figure}
-
-\begin{table}[htbp]
-  \caption{
-    \begin{CJK*}{UTF8}{hei}
-      表说明
-    \end{CJK*}
-  }
-  \vspace {-2.5mm}
-  \begin{center}
-    \begin{tabular}{ll}
-      \toprule
-      *示例表格*&*第1行为表头,表头要有内容* \\
-      \hline
-      &
-      \\
-      &
-      \\
-      &
-      \\
-      &
-      \\
-      \bottomrule
-    \end{tabular}
-    \label{tab1}
-  \end{center}
-\end{table}
-
+{
+  \begin{CJK*}{UTF8}{hei}
+    \subsection{项目使用}
+  \end{CJK*}  
+}
+1. clone 本项目
+2. 使用 LaTeX 编辑器打开 `byml_CjC_template.tex` 文件（编码为 UTF-8）
+3. 尝试编译，如果遇到字符集问题，可以参考[这篇文章](https://www.bilibili.com/read/cv20507474/)
+4. 在 `config.json` 中填写填充的基本信息
+5. 运行 `trans.py` 脚本，将指定 markdown 文件转换为 LaTeX 格式（目前仅支持1、2、3级标题的转换）
+6. 调整正文、添加参考文献并自行编译
 
 % 致谢
 \vspace{3mm}
