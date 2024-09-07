@@ -1,17 +1,17 @@
 # Fdb version 4
-["bibtex Report"] 0 "Report.aux" "Report.bbl" "Report" 0 -1
+["bibtex Report"] 1725675013.40538 "Report.aux" "Report.bbl" "Report" 1725675013.79215 2
   "./ref.bib" 1725634675 1146 9531f8475b6322945d8571dafadc2100 ""
-  "Report.aux" 1725642860 407 e8782ba058d6f083be791e6cc327a4b0 "pdflatex"
+  "Report.aux" 1725675013 34 3985256e7290058c681f74d7a3565a19 "pdflatex"
   "d:/Program Files/texlive/2024/texmf-dist/bibtex/bst/base/abbrv.bst" 1712818631 20329 b5fed53e10044d0f8112183785c759b1 ""
   (generated)
   "Report.bbl"
   "Report.blg"
   (rewritten before read)
-["pdflatex"] 1725642859.16428 "d:/Study/Courses/2-1-IntroAI/Lab/BymlCjCTemplate/Report.tex" "Report.pdf" "Report" 1725642861.90318 2
+["pdflatex"] 1725675010.15097 "d:/Study/Courses/2-1-IntroAI/Lab/BymlCjCTemplate/Report.tex" "Report.pdf" "Report" 1725675012.7223 2
   "CjC.cls" 1542509106 12848 6d5eae3f62a8744a9dff9d66f614497f ""
-  "Report.aux" 1725642860 407 e8782ba058d6f083be791e6cc327a4b0 "pdflatex"
-  "Report.bbl" 0 -1 0 "bibtex Report"
-  "Report.tex" 1725642853 9661 4191306c803b387d162d509b4ce2220f ""
+  "Report.aux" 1725675013 34 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "Report.bbl" 1725675013 0 d41d8cd98f00b204e9800998ecf8427e "bibtex Report"
+  "Report.tex" 1725675009 9661 4191306c803b387d162d509b4ce2220f ""
   "c:/Users/byml/.texlive2024/texmf-var/fonts/pk/modeless/zhmetrics/cyberb/cyberb4e.452pk" 1725499132 35920 be643c859efc311fa2d8edeee87f95a2 ""
   "c:/Users/byml/.texlive2024/texmf-var/fonts/pk/modeless/zhmetrics/cyberb/cyberb4e.542pk" 1725499065 43656 dbb6c30eb7b5eac1ad84921d6e81ec4c ""
   "c:/Users/byml/.texlive2024/texmf-var/fonts/pk/modeless/zhmetrics/cyberb/cyberb4f.542pk" 1725499045 65668 722a4b9f7b775797c884bb1e28deab50 ""
@@ -98,6 +98,8 @@
   "d:/Program Files/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm" 1712819674 4524 6bce29db5bc272ba5f332261583fee9c ""
   "d:/Program Files/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm" 1712819674 2124 2601a75482e9426d33db523edf23570a ""
   "d:/Program Files/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm" 1712819674 4408 25b74d011a4c66b7f212c0cc3c90061b ""
+  "d:/Program Files/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm" 1712819674 2288 f478fc8fed18759effb59f3dad7f3084 ""
+  "d:/Program Files/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm" 1712819674 4640 532ca3305aad10cc01d769f3f91f1029 ""
   "d:/Program Files/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1712818560 1004 54797486969f23fa377b128694d548df ""
   "d:/Program Files/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1712818560 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "d:/Program Files/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1712818560 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -123,8 +125,10 @@
   "d:/Program Files/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1712818560 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "d:/Program Files/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb" 1712819674 44729 fea0975e20ec51c992338362f05f1146 ""
   "d:/Program Files/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb" 1712819674 46026 687528a208fbfc1f00832bb96cccebbb ""
+  "d:/Program Files/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb" 1712819674 45458 504e2b06fa82109d168c7a0afb09e145 ""
   "d:/Program Files/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf" 1712819674 1372 788387fea833ef5963f4c5bffe33eb89 ""
   "d:/Program Files/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf" 1712819674 1380 0ea3a3370054be6da6acd929ec569f06 ""
+  "d:/Program Files/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmri7t.vf" 1712819674 1384 a9d8adaf491ce34e5fba99dc7bbe5f39 ""
   "d:/Program Files/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1712819229 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "d:/Program Files/texlive/2024/texmf-dist/tex/generic/iftex/ifpdf.sty" 1712819011 480 5778104efadad304ced77548ca2184b1 ""
   "d:/Program Files/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty" 1712819011 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
@@ -266,7 +270,7 @@
   "d:/Program Files/texlive/texmf-local/tex/latex/zhmetrics/c70fs.fd" 1253685772 974 32f2d7465ffc0a20abf56d081cdf6aca ""
   "d:/Program Files/texlive/texmf-local/tex/latex/zhmetrics/c70hei.fd" 1253685772 995 f5f18241df814104e289f8d6f1acdbcd ""
   "d:/Program Files/texlive/texmf-local/tex/latex/zhmetrics/c70kai.fd" 1253685772 995 09bcd6ecad950537c79b95b4fbd27974 ""
-  "d:/Study/Courses/2-1-IntroAI/Lab/BymlCjCTemplate/Report.tex" 1725642853 9661 4191306c803b387d162d509b4ce2220f ""
+  "d:/Study/Courses/2-1-IntroAI/Lab/BymlCjCTemplate/Report.tex" 1725675009 9661 4191306c803b387d162d509b4ce2220f ""
   "picins.sty" 1469002324 17807 916739e9c8f52c6a085688f05d1594e2 ""
   (generated)
   "Report.aux"

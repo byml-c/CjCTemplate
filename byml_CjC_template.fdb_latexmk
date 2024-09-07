@@ -1,19 +1,19 @@
 # Fdb version 4
-["bibtex byml_CjC_template"] 1725674431.63045 "byml_CjC_template.aux" "byml_CjC_template.bbl" "byml_CjC_template" 1725674624.10666 0
+["bibtex byml_CjC_template"] 1725674431.63045 "byml_CjC_template.aux" "byml_CjC_template.bbl" "byml_CjC_template" 1725674889.98444 0
   "./ref.bib" 1725634675 1146 9531f8475b6322945d8571dafadc2100 ""
-  "byml_CjC_template.aux" 1725674622 1117 18c7268973c266bdeeb2fd9bacc098c5 "pdflatex"
+  "byml_CjC_template.aux" 1725674888 1117 18c7268973c266bdeeb2fd9bacc098c5 "pdflatex"
   "d:/Program Files/texlive/2024/texmf-dist/bibtex/bst/base/abbrv.bst" 1712818631 20329 b5fed53e10044d0f8112183785c759b1 ""
   (generated)
   "byml_CjC_template.bbl"
   "byml_CjC_template.blg"
   (rewritten before read)
-["pdflatex"] 1725674621.55996 "d:/Study/Courses/2-1-IntroAI/Lab/BymlCjCTemplate/byml_CjC_template.tex" "byml_CjC_template.pdf" "byml_CjC_template" 1725674624.10744 0
+["pdflatex"] 1725674887.38989 "d:/Study/Courses/2-1-IntroAI/Lab/BymlCjCTemplate/byml_CjC_template.tex" "byml_CjC_template.pdf" "byml_CjC_template" 1725674889.9853 0
   "CJC1.pdf" 1542447735 549625 1d56db610da1278a42e72ec3a283ee24 ""
   "CjC.cls" 1542509106 12848 6d5eae3f62a8744a9dff9d66f614497f ""
-  "byml_CjC_template.aux" 1725674622 1117 18c7268973c266bdeeb2fd9bacc098c5 "pdflatex"
+  "byml_CjC_template.aux" 1725674888 1117 18c7268973c266bdeeb2fd9bacc098c5 "pdflatex"
   "byml_CjC_template.bbl" 1725674432 528 5a67bce2ca468767e58b04b9e9a6d26d "bibtex byml_CjC_template"
-  "byml_CjC_template.out" 1725674622 263 db476142edf2c077bb35ba63601d2b60 "pdflatex"
-  "byml_CjC_template.tex" 1725674620 9071 b55c3cadcb4e305bfd253be7b428feaf ""
+  "byml_CjC_template.out" 1725674888 263 db476142edf2c077bb35ba63601d2b60 "pdflatex"
+  "byml_CjC_template.tex" 1725674886 9071 ad1ef8fcd044b89382d6ab9703030f46 ""
   "c:/Users/byml/.texlive2024/texmf-var/fonts/pk/modeless/zhmetrics/cyberb/cyberb4e.452pk" 1725499132 35920 be643c859efc311fa2d8edeee87f95a2 ""
   "c:/Users/byml/.texlive2024/texmf-var/fonts/pk/modeless/zhmetrics/cyberb/cyberb4e.542pk" 1725499065 43656 dbb6c30eb7b5eac1ad84921d6e81ec4c ""
   "c:/Users/byml/.texlive2024/texmf-var/fonts/pk/modeless/zhmetrics/cyberb/cyberb4e.632pk" 1725498914 51648 e48726676f2b27940a24ed820a567e5a ""
@@ -310,7 +310,7 @@
   "d:/Program Files/texlive/texmf-local/fonts/tfm/zhmetrics/unikai/unikaiff.tfm" 1247110872 1172 d8c52947a0b26d01fe0320bba2062d01 ""
   "d:/Program Files/texlive/texmf-local/tex/latex/zhmetrics/c70hei.fd" 1253685772 995 f5f18241df814104e289f8d6f1acdbcd ""
   "d:/Program Files/texlive/texmf-local/tex/latex/zhmetrics/c70kai.fd" 1253685772 995 09bcd6ecad950537c79b95b4fbd27974 ""
-  "d:/Study/Courses/2-1-IntroAI/Lab/BymlCjCTemplate/byml_CjC_template.tex" 1725674620 9071 b55c3cadcb4e305bfd253be7b428feaf ""
+  "d:/Study/Courses/2-1-IntroAI/Lab/BymlCjCTemplate/byml_CjC_template.tex" 1725674886 9071 ad1ef8fcd044b89382d6ab9703030f46 ""
   "picins.sty" 1469002324 17807 916739e9c8f52c6a085688f05d1594e2 ""
   (generated)
   "byml_CjC_template.aux"

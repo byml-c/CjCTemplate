@@ -44,7 +44,7 @@ def main():
     for key, val in user_config.items():
         tex_template = tex_template.replace(key, val)
     tex_template = re.sub(r'% 正文部分(.*?)% 致谢',
-                        f'% 正文部分\n\n{md2tex()}\n\n% 致谢',
+                        f'% 正文部分\n\n{md2tex(md_path)}\n\n% 致谢',
                         tex_template, flags=re.S)
     open(out_path+'.tex', 'w', encoding='utf-8').write(tex_template)
     print(f'转换完成！请打开 {out_path}.tex 进行调整和查看。')
