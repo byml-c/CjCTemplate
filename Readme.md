@@ -9,8 +9,9 @@
 
 ## 项目使用
 1. clone 本项目
-2. 使用 LaTeX 编辑器打开 `byml_CjC_template.tex` 文件（编码为 UTF-8）
+2. 使用 LaTeX 编辑器打开 `template` 文件夹下的 `bymlCjCTemplate.tex` 文件（编码为 UTF-8）
 3. 尝试编译，如果遇到字符集问题，可以参考[这篇文章](https://www.bilibili.com/read/cv20507474/)
-4. 在 `config.json` 中填写填充的基本信息
-5. 运行 `trans.py` 脚本，将指定 markdown 文件转换为 LaTeX 格式（目前仅支持1、2、3级标题的转换）
-6. 调整正文、添加参考文献并自行编译
+4. 在当前目录下的 `config.json` 中填写填充的基本信息
+5. 运行 `trans.py` 脚本，根据提示将指定 markdown 文件转换为 LaTeX 格式
+    - 目前仅支持1、2、3级标题的转换
+6. 输出会存放在 `report` 文件夹中，可以直接复制整个文件夹到任何地方进行修改，调整正文、添加参考文献并自行编译

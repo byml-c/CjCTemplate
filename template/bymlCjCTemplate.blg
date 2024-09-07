@@ -1,11 +1,11 @@
 This is BibTeX, Version 0.99d (TeX Live 2024)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: byml_CjC_template.aux
+The top-level auxiliary file: bymlCjCTemplate.aux
 The style file: abbrv.bst
 Database file #1: ref.bib
 You've used 1 entry,
             2118 wiz_defined-function locations,
-            506 strings with 4380 characters,
+            506 strings with 4376 characters,
 and the built_in function-call counts, 1099 in all, are:
 = -- 83
 > -- 133
