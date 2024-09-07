@@ -138,6 +138,47 @@ INPUT d:/Program Files/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-b
 INPUT d:/Program Files/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT d:/Program Files/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT d:/Program Files/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/latex/hycolor/hycolor.sty
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/latex/hycolor/hycolor.sty
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/latex/auxhook/auxhook.sty
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/latex/auxhook/auxhook.sty
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/latex/refcount/refcount.sty
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/latex/refcount/refcount.sty
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/generic/intcalc/intcalc.sty
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/generic/intcalc/intcalc.sty
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/latex/hyperref/puenc.def
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/latex/hyperref/puenc.def
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/latex/hyperref/puenc.def
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/latex/atveryend/atveryend.sty
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/latex/base/atveryend-ltx.sty
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/latex/base/atveryend-ltx.sty
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+INPUT d:/Program Files/texlive/2024/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 INPUT d:/Program Files/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT d:/Program Files/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT ./byml_CjC_template.aux
@@ -147,6 +188,14 @@ OUTPUT byml_CjC_template.aux
 INPUT d:/Program Files/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT d:/Program Files/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT d:/Program Files/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT ./byml_CjC_template.out
+INPUT ./byml_CjC_template.out
+INPUT byml_CjC_template.out
+INPUT byml_CjC_template.out
+OUTPUT byml_CjC_template.pdf
+INPUT ./byml_CjC_template.out
+INPUT ./byml_CjC_template.out
+OUTPUT byml_CjC_template.out
 INPUT d:/Program Files/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 INPUT d:/Program Files/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT d:/Program Files/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
@@ -172,7 +221,6 @@ INPUT d:/Program Files/texlive/2024/texmf-dist/tex/latex/cjk/texinput/UTF8/c70so
 INPUT d:/Program Files/texlive/2024/texmf-dist/tex/latex/cjk/texinput/UTF8/c70song.fd
 INPUT d:/Program Files/texlive/2024/texmf-dist/tex/latex/cjk/texinput/UTF8/c70song.fd
 INPUT d:/Program Files/texlive/texmf-local/fonts/tfm/zhmetrics/cyberb/cyberb7b.tfm
-OUTPUT byml_CjC_template.pdf
 INPUT d:/Program Files/texlive/texmf-local/fonts/tfm/zhmetrics/cyberb/cyberb53.tfm
 INPUT d:/Program Files/texlive/texmf-local/fonts/tfm/zhmetrics/cyberb/cyberb67.tfm
 INPUT d:/Program Files/texlive/texmf-local/fonts/tfm/zhmetrics/cyberb/cyberb4e.tfm
@@ -372,6 +420,8 @@ INPUT d:/Program Files/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT d:/Program Files/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmri7t.vf
 INPUT d:/Program Files/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
 INPUT byml_CjC_template.aux
+INPUT ./byml_CjC_template.out
+INPUT ./byml_CjC_template.out
 INPUT c:/Users/byml/.texlive2024/texmf-var/fonts/pk/modeless/zhmetrics/unihei/unihei73.632pk
 INPUT c:/Users/byml/.texlive2024/texmf-var/fonts/pk/modeless/zhmetrics/unihei/unihei65.632pk
 INPUT c:/Users/byml/.texlive2024/texmf-var/fonts/pk/modeless/zhmetrics/unihei/unihei80.632pk
